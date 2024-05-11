@@ -51,7 +51,7 @@ while True:
             print("".center(38, "="))
 
         elif excedeu_saques:
-            print("Operação falhou: Número máximo de saques excedido.")
+            print("Operação falhou: Número máximo de saques diarios excedido.")
             print("".center(38, "="))
 
         elif valor > 0:
